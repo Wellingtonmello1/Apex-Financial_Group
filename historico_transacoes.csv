@@ -1,0 +1,501 @@
+id_trasacao,id_cliente,data_hora_transacao,valor_brl,tipo_trasacao,categoria_gasto,merchant_name,latitude,longitude,dispositivo,status_transacao
+1,393,2024-07-04 16:16:53.456640,2911.68,crédito,outros,Caldeira,27.728293,172.337451,tablet,rejeitada
+2,183,2025-06-13 09:36:30.921523,2381.75,crédito,lazer,Carvalho Fogaça e Filhos,26.490292,-176.880663,tablet,rejeitada
+3,76,2023-01-21 07:40:02.222669,3841.16,débito,alimentação,Camargo Correia Ltda.,-79.19378,-108.23092,web,rejeitada
+4,255,2022-08-08 04:27:57.803777,1157.95,débito,alimentação,Andrade,-46.966442,177.665989,celular,pendente
+5,28,2022-04-29 20:36:25.800057,4152.41,crédito,moradia,Rios,-18.649958,-116.223865,celular,aprovada
+6,196,2025-03-04 15:35:23.253871,3024.9,crédito,transporte,Rodrigues,-55.792198,-5.577247,web,pendente
+7,320,2025-05-23 19:08:39.765841,486.19,débito,moradia,Montenegro,14.380727,-109.445675,tablet,rejeitada
+8,406,2024-01-21 21:00:11.895584,2332.78,crédito,moradia,Vieira S/A,-56.14396,-96.49403,web,rejeitada
+9,259,2023-12-26 12:29:01.669332,1312.02,crédito,outros,Vargas e Filhos,-26.51369,-152.061327,tablet,pendente
+10,10,2024-04-14 16:54:02.035526,4763.14,débito,lazer,Lima,70.279273,-175.689523,celular,rejeitada
+11,231,2023-10-27 16:21:28.875834,1576.22,crédito,lazer,da Paz,40.44064,-135.646467,web,aprovada
+12,17,2025-03-28 05:10:58.865405,888.46,crédito,moradia,Pinto Cassiano e Filhos,47.234899,-79.680173,celular,rejeitada
+13,221,2023-07-28 22:30:33.844162,676.77,crédito,lazer,da Luz e Filhos,-23.601318,177.733434,celular,pendente
+14,346,2025-04-25 13:26:51.210034,2455.32,crédito,lazer,Melo Santos S/A,44.84424,148.082055,tablet,aprovada
+15,260,2025-01-02 12:45:05.174885,283.41,crédito,lazer,da Conceição Campos S.A.,17.718629,-159.40218,tablet,rejeitada
+16,316,2022-07-08 02:39:19.209380,3384.06,crédito,saúde,Casa Grande Lima S/A,75.481696,-72.817216,celular,aprovada
+17,303,2024-07-23 04:23:33.496106,230.37,crédito,saúde,Garcia - ME,50.920879,-15.478087,tablet,pendente
+18,14,2025-08-01 12:44:47.955780,3827.14,crédito,lazer,Câmara Fernandes - ME,38.632993,-147.063117,celular,rejeitada
+19,177,2023-06-24 06:35:03.931118,4959.77,crédito,saúde,da Rosa S/A,-17.724803,15.193459,celular,pendente
+20,126,2024-09-29 05:15:10.977807,1241.83,crédito,educação,Silva,22.225939,-47.409723,celular,pendente
+21,34,2023-01-14 12:03:51.045947,4345.36,débito,saúde,Cirino S/A,-89.856137,-152.01258,celular,aprovada
+22,276,2025-07-25 11:27:22.423310,1633.95,crédito,moradia,Cunha,-13.410809,73.434298,web,pendente
+23,264,2022-03-14 17:25:42.164287,4507.54,crédito,alimentação,Lopes S.A.,-22.283655,83.757349,tablet,rejeitada
+24,302,2024-09-26 11:26:19.938994,116.07,crédito,lazer,Camargo,-63.992036,179.138476,tablet,rejeitada
+25,166,2025-04-03 21:32:18.481493,2864.83,crédito,alimentação,Farias Fonseca e Filhos,7.008536,136.169224,tablet,pendente
+26,106,2025-01-19 09:36:06.178751,1683.16,crédito,transporte,da Costa,84.54971,-31.852111,tablet,rejeitada
+27,187,2024-11-01 06:27:06.539364,4847.29,débito,lazer,Borges,-61.447724,-109.946183,tablet,aprovada
+28,431,2025-04-09 10:09:14.563298,4252.42,débito,saúde,Aparecida - EI,85.652124,-77.761739,web,aprovada
+29,153,2024-08-03 00:57:58.656253,4981.16,crédito,outros,Brito,-69.899661,113.442378,celular,pendente
+30,381,2024-10-13 22:45:38.141839,4789.92,débito,educação,Silveira,37.291694,-71.552549,web,rejeitada
+31,35,2025-05-31 15:29:10.932626,2834.31,crédito,lazer,Aparecida Cardoso S.A.,22.263079,115.545117,celular,rejeitada
+32,408,2024-11-24 06:55:11.193923,387.92,crédito,educação,Fonseca,30.388528,158.156002,web,rejeitada
+33,340,2024-11-29 00:47:35.084892,2702.04,débito,lazer,Azevedo,39.606172,44.951144,web,rejeitada
+34,320,2025-03-05 06:12:17.898436,2579.27,débito,alimentação,Cavalcante - EI,-16.408785,-110.778957,tablet,pendente
+35,265,2022-10-13 07:32:31.249048,4314.24,crédito,transporte,Vieira e Filhos,-38.946016,33.402872,tablet,pendente
+36,481,2025-04-07 03:02:21.961362,2339.14,crédito,educação,Cavalcante - ME,46.708371,26.239187,tablet,pendente
+37,31,2025-02-02 04:28:43.581812,2613.74,crédito,lazer,Guerra,72.998943,-34.242667,celular,aprovada
+38,78,2023-03-09 23:22:34.707209,3733.44,crédito,outros,Castro - EI,-31.532686,137.888113,web,rejeitada
+39,164,2024-10-01 10:44:09.526494,4301.63,débito,moradia,Montenegro,50.948265,-41.039221,celular,rejeitada
+40,137,2022-05-01 20:46:40.866786,4119.43,débito,saúde,da Rocha Santos Ltda.,58.216884,-116.056849,tablet,pendente
+41,121,2025-05-10 16:26:33.792990,2032.3,débito,transporte,Nascimento S.A.,-11.658912,-159.013354,celular,aprovada
+42,126,2025-03-09 18:07:59.928012,3986.24,crédito,lazer,Carvalho,-17.405697,-152.340425,web,pendente
+43,224,2025-07-25 14:41:54.010156,2112.99,débito,transporte,Costela Nascimento S/A,-89.624201,168.238901,celular,rejeitada
+44,70,2024-11-07 10:54:39.877351,150.56,crédito,moradia,Duarte,-67.653781,114.889808,tablet,aprovada
+45,330,2023-11-19 21:23:58.472260,4263.34,crédito,outros,Jesus Pimenta Ltda.,-2.856419,-149.256931,celular,aprovada
+46,441,2025-04-03 15:44:18.605974,4483.04,crédito,educação,Fogaça S.A.,-14.92134,-85.115991,web,aprovada
+47,462,2022-07-06 03:27:08.894377,4775.67,crédito,moradia,Nascimento e Filhos,66.567991,-122.853994,tablet,aprovada
+48,204,2025-04-01 02:39:41.665353,4716.09,débito,transporte,Rezende,-20.919434,156.204479,celular,pendente
+49,377,2024-01-12 04:24:40.586785,2503.74,débito,educação,Macedo Câmara Ltda.,-17.846293,-70.522019,tablet,pendente
+50,487,2024-05-07 19:36:20.722805,3876.7,crédito,lazer,Cassiano,29.737222,-55.594588,celular,aprovada
+51,308,2024-05-09 00:48:19.606282,615.77,crédito,saúde,Freitas,-50.181844,77.164865,tablet,pendente
+52,200,2023-06-03 11:14:19.828561,4030.18,débito,lazer,Marques Cirino S.A.,-39.3033,125.8328,celular,aprovada
+53,55,2024-10-27 10:42:09.605734,879.9,crédito,lazer,Ramos da Paz S/A,-6.741999,-92.53372,web,rejeitada
+54,442,2025-02-07 22:18:36.632656,2949.46,crédito,educação,Rodrigues,73.160997,-79.149863,web,pendente
+55,486,2021-12-31 00:48:42.651983,569.24,crédito,lazer,Lima S.A.,32.144617,166.345494,tablet,aprovada
+56,494,2025-07-21 03:15:53.783522,1392.28,débito,saúde,Silveira - EI,-53.146149,-173.671082,web,pendente
+57,189,2023-12-13 19:56:44.065094,4107.72,débito,moradia,Gomes,-84.439114,-120.925135,tablet,aprovada
+58,431,2025-06-18 08:05:50.872030,3698.55,débito,moradia,Cardoso S.A.,-67.559992,-36.303022,tablet,aprovada
+59,130,2022-04-29 19:33:37.882901,2765.88,crédito,moradia,Vieira S/A,-61.454857,111.182765,tablet,rejeitada
+60,463,2024-10-15 05:56:00.225184,4062.19,débito,educação,Santos,-67.19233,-71.379395,celular,rejeitada
+61,199,2022-10-30 12:41:50.419936,44.29,crédito,saúde,Castro,-7.48697,-1.889682,web,aprovada
+62,480,2023-05-04 13:15:23.007405,4114.43,débito,saúde,Araújo Nogueira e Filhos,-18.205156,156.878903,celular,aprovada
+63,469,2024-01-08 15:45:12.528550,2197.04,crédito,outros,Aparecida S/A,56.20125,-20.689736,tablet,rejeitada
+64,405,2024-06-27 16:21:46.682477,174.24,débito,outros,Casa Grande,-89.675082,-59.573009,web,rejeitada
+65,378,2020-10-17 10:32:00.716512,2067.74,crédito,moradia,Gomes,-50.438919,9.681812,web,aprovada
+66,423,2024-12-16 21:23:12.965707,805.92,crédito,educação,Rodrigues Gomes e Filhos,-59.825527,84.044163,celular,rejeitada
+67,216,2021-09-19 19:00:48.697896,3012.57,crédito,lazer,Câmara S/A,-14.351057,11.828221,tablet,aprovada
+68,391,2024-12-03 08:27:50.982008,265.23,débito,moradia,Campos,6.769238,-134.471036,web,pendente
+69,70,2025-07-04 09:01:09.686236,20.36,débito,moradia,Cavalcanti Lima - EI,-0.115982,141.913965,web,rejeitada
+70,295,2021-12-09 16:31:45.973218,415.75,débito,transporte,Cassiano,89.119835,-18.099185,tablet,pendente
+71,497,2024-12-17 15:33:02.250212,3839.2,débito,outros,Ferreira,-62.103499,-34.457905,tablet,pendente
+72,211,2025-03-26 03:29:37.388845,3964.25,crédito,lazer,da Luz,-69.49972,-178.830286,web,pendente
+73,69,2025-01-17 02:43:42.005584,1307.1,crédito,outros,Vasconcelos Rezende S.A.,-4.031934,-100.661117,web,aprovada
+74,44,2023-04-15 03:20:46.751824,2075.41,débito,lazer,Azevedo,-59.622762,130.227032,web,pendente
+75,115,2025-04-24 03:39:58.623073,108.57,débito,educação,Casa Grande,-65.720814,-6.562022,tablet,pendente
+76,321,2025-08-13 01:48:12.392667,1147.39,débito,lazer,Vargas Gomes Ltda.,-4.284324,85.325082,celular,rejeitada
+77,360,2024-10-11 05:54:03.252614,4259.9,débito,lazer,Pereira,80.887135,-0.972264,tablet,rejeitada
+78,308,2021-07-21 19:56:33.949063,1304.49,débito,saúde,Gomes Leão - EI,43.439881,109.23772,celular,pendente
+79,61,2024-01-03 21:31:16.623268,75.5,crédito,outros,Gomes Barros - EI,23.237016,102.90195,web,pendente
+80,254,2025-07-21 05:32:50.084321,596.97,débito,transporte,Sampaio Borges S.A.,7.095637,-178.461272,web,rejeitada
+81,383,2022-06-10 09:00:41.138337,2473.37,débito,lazer,Fonseca - EI,37.218635,-108.277979,celular,pendente
+82,111,2025-05-05 18:41:30.238732,4976.06,crédito,moradia,Ferreira Ltda.,-52.593714,-21.785597,tablet,aprovada
+83,215,2025-04-20 01:48:55.440802,905.95,débito,alimentação,da Cruz,-33.430619,-59.425665,web,rejeitada
+84,121,2025-04-26 18:05:03.584039,3090.31,débito,saúde,Campos Sampaio e Filhos,-51.593173,22.647715,tablet,pendente
+85,332,2025-08-13 20:19:21.183216,2293.53,débito,lazer,Freitas,-75.482114,-123.086406,celular,rejeitada
+86,499,2025-03-07 00:13:41.629119,3466.65,débito,moradia,Mendes - EI,-47.540705,-163.794159,web,pendente
+87,217,2021-07-22 07:13:14.043307,3681.84,crédito,alimentação,Barros da Cruz S/A,-86.650543,125.577878,celular,pendente
+88,31,2025-06-03 13:12:02.277818,265.3,débito,lazer,Cassiano,-41.030794,72.203022,web,pendente
+89,481,2025-06-11 23:02:16.148191,3355.6,débito,alimentação,Melo,20.467224,1.106416,web,pendente
+90,318,2022-11-21 13:07:40.250990,1907.78,crédito,moradia,da Paz S/A,-48.154312,-147.787317,web,aprovada
+91,496,2025-01-21 03:27:26.970527,4461.67,débito,educação,Pereira S.A.,45.102336,-93.913398,celular,rejeitada
+92,87,2021-11-10 03:17:44.574297,2521.21,crédito,lazer,Rodrigues,31.949291,117.510194,celular,aprovada
+93,163,2024-06-16 15:33:31.634452,3552.73,crédito,transporte,Oliveira,44.720357,-15.699269,web,aprovada
+94,161,2025-02-09 06:09:05.867367,225.59,débito,lazer,Castro,-17.031833,-130.641954,web,pendente
+95,185,2023-10-07 01:56:22.404008,4631.55,crédito,saúde,Souza Cunha - ME,76.173295,-149.936934,tablet,rejeitada
+96,265,2022-07-01 16:09:48.306977,1568.49,débito,saúde,Souza Novais - EI,-69.274303,71.489713,tablet,rejeitada
+97,392,2024-04-04 06:23:33.293456,4750.5,crédito,alimentação,Garcia,-45.755297,-150.648378,celular,aprovada
+98,28,2024-10-26 13:01:25.175307,1153.15,débito,lazer,Correia,-17.54402,-121.802718,web,aprovada
+99,362,2022-06-09 22:00:49.047459,2338.33,débito,lazer,Pereira,0.052488,-164.941381,celular,rejeitada
+100,183,2024-10-08 03:19:40.738959,4944.15,crédito,lazer,Nogueira Caldeira S/A,-33.115857,140.571398,web,aprovada
+101,434,2023-08-12 04:30:10.995746,3600.22,débito,alimentação,Correia,58.093528,-71.699224,web,aprovada
+102,105,2024-07-18 05:47:43.644415,4341.52,débito,outros,da Costa Ltda.,-67.172423,126.082334,celular,pendente
+103,261,2024-04-23 07:07:11.613596,4113.75,débito,educação,Aparecida,-77.10197,-11.110992,celular,pendente
+104,393,2023-06-08 11:33:02.579980,2856.09,crédito,alimentação,Albuquerque,5.737275,-28.386487,celular,rejeitada
+105,347,2025-08-04 14:48:07.519381,476.05,crédito,alimentação,Dias Sá - ME,5.519345,-110.466152,web,pendente
+106,349,2025-06-18 01:46:53.867274,614.34,crédito,educação,Farias - ME,45.178298,-125.774489,celular,rejeitada
+107,79,2023-03-28 06:27:36.952299,149.23,crédito,outros,Alves Pastor - ME,38.031104,134.79866,tablet,pendente
+108,246,2025-05-08 10:41:33.753628,2273.01,crédito,educação,da Rocha S.A.,-49.321878,68.628261,tablet,aprovada
+109,169,2025-03-29 04:44:59.275322,4849.0,crédito,saúde,Silva S.A.,-32.112648,171.231769,tablet,pendente
+110,465,2024-03-03 11:02:22.105216,4787.23,débito,transporte,Montenegro Moreira e Filhos,73.407111,169.714982,celular,pendente
+111,145,2023-07-01 12:23:03.639492,1619.24,débito,moradia,Machado,-54.781919,2.010358,celular,pendente
+112,488,2024-10-09 12:28:08.164622,3013.45,débito,lazer,Aparecida,14.054783,-51.628457,web,aprovada
+113,123,2022-04-14 14:30:37.114942,4825.42,crédito,alimentação,Cassiano - EI,78.520998,87.105535,celular,aprovada
+114,84,2024-10-19 17:13:17.595545,1945.57,crédito,saúde,Casa Grande Ltda.,56.870714,-133.202206,tablet,pendente
+115,79,2023-03-22 12:47:47.427261,607.41,crédito,outros,Dias,-44.44177,-21.296567,web,pendente
+116,413,2024-01-17 13:25:38.615296,4608.89,débito,saúde,Oliveira,7.530189,9.713257,tablet,aprovada
+117,427,2023-11-20 10:48:44.537122,1840.45,débito,lazer,Santos Vargas - ME,-20.75866,74.080038,web,rejeitada
+118,244,2025-08-05 05:28:22.424637,1346.05,crédito,alimentação,Rezende,-52.29898,-113.446144,web,rejeitada
+119,315,2025-07-09 06:45:34.874902,935.85,crédito,alimentação,Aparecida,7.5688,-26.119338,celular,pendente
+120,175,2025-07-14 14:39:23.486652,4866.49,débito,moradia,Macedo Fonseca - EI,77.67335,-11.612903,tablet,pendente
+121,80,2024-08-15 01:23:01.704190,4653.68,débito,saúde,Montenegro,30.820726,-38.8956,web,rejeitada
+122,41,2025-01-16 23:31:26.773187,4536.5,crédito,saúde,Pinto e Filhos,-74.683429,-48.56499,celular,aprovada
+123,351,2025-05-24 17:58:20.013170,4515.0,débito,educação,Cassiano S/A,-11.976389,21.767733,web,rejeitada
+124,292,2023-04-09 23:38:32.233789,243.4,débito,alimentação,Barbosa,-30.125124,28.425633,tablet,aprovada
+125,262,2025-03-03 18:41:24.621416,2127.44,débito,lazer,Ferreira - ME,35.758977,164.931228,tablet,pendente
+126,292,2024-04-29 21:34:19.846914,4065.06,crédito,saúde,Caldeira,-66.962186,-83.216477,tablet,aprovada
+127,394,2025-06-03 04:57:57.260241,2519.71,débito,moradia,Vargas,26.263261,-72.909823,tablet,rejeitada
+128,92,2024-04-08 00:29:08.881026,3931.95,crédito,alimentação,Dias Ltda.,72.23418,81.07765,celular,rejeitada
+129,449,2024-07-18 03:27:57.424434,3523.37,crédito,educação,Camargo,-15.274263,64.050054,tablet,rejeitada
+130,388,2021-01-12 20:04:50.295001,3352.95,crédito,saúde,Melo Casa Grande e Filhos,-32.697044,-8.101118,celular,aprovada
+131,95,2024-01-14 00:22:18.098689,395.71,crédito,outros,Araújo,7.037473,50.913404,tablet,aprovada
+132,223,2025-07-29 14:37:30.423417,2674.21,débito,lazer,Aragão Cunha S/A,23.526817,-35.126398,celular,aprovada
+133,88,2022-10-15 02:22:25.040562,3280.73,crédito,moradia,Barros Casa Grande S/A,-16.474101,37.469485,web,pendente
+134,495,2022-10-20 21:55:38.122420,3722.51,crédito,saúde,Leão,50.869008,-65.053307,tablet,pendente
+135,185,2024-05-05 04:02:44.455969,3454.86,crédito,outros,Cirino,-75.573665,-130.370979,web,aprovada
+136,65,2025-06-01 17:56:55.816376,679.89,débito,alimentação,Fernandes,-10.300176,-91.666865,celular,pendente
+137,497,2024-03-15 06:28:39.496917,945.16,débito,transporte,Mendes,37.640904,107.49775,web,pendente
+138,75,2024-09-11 13:41:06.268258,3250.45,crédito,outros,Sampaio Lopes Ltda.,63.093269,28.916855,tablet,pendente
+139,98,2025-03-15 15:08:42.946241,435.04,crédito,transporte,Barbosa Silveira e Filhos,65.287055,150.987563,web,rejeitada
+140,12,2025-05-09 04:38:22.789333,586.71,débito,moradia,Albuquerque,-49.59878,66.240709,tablet,rejeitada
+141,494,2025-06-15 15:13:38.068211,2427.81,débito,outros,Dias,-59.503887,38.177166,web,pendente
+142,125,2022-03-02 04:52:11.421111,1010.69,crédito,alimentação,Machado S.A.,80.266745,61.231482,web,aprovada
+143,53,2025-05-12 17:08:08.548258,3153.9,crédito,lazer,Andrade S.A.,-39.626222,45.580331,web,pendente
+144,297,2024-09-09 21:45:12.072752,2981.22,crédito,alimentação,Peixoto Garcia S.A.,3.438505,-67.384306,web,rejeitada
+145,249,2025-08-10 06:34:31.610201,2569.21,crédito,transporte,Freitas Ltda.,-85.653689,-17.8948,tablet,aprovada
+146,271,2025-08-08 18:31:54.524600,100.0,crédito,educação,Sampaio - ME,84.190901,64.811787,celular,rejeitada
+147,458,2024-05-03 02:17:02.603873,3243.26,crédito,alimentação,Fogaça,55.61738,48.626044,web,pendente
+148,481,2025-04-14 13:57:33.952024,3232.67,crédito,moradia,Camargo,-42.80534,66.329024,web,aprovada
+149,83,2024-10-29 03:23:36.179586,1443.61,débito,lazer,Novaes Peixoto S.A.,55.696801,54.009233,web,rejeitada
+150,119,2025-05-16 08:04:44.370504,2540.64,crédito,educação,Porto,-13.966098,153.062091,tablet,pendente
+151,240,2025-07-24 05:58:08.508144,660.14,crédito,moradia,Borges S/A,-65.937999,168.764547,tablet,rejeitada
+152,492,2021-12-06 13:38:09.842249,2087.22,crédito,outros,Caldeira,43.252683,154.913865,web,aprovada
+153,319,2025-04-14 13:34:58.368114,1040.01,débito,moradia,Porto - ME,45.12008,132.047401,web,aprovada
+154,89,2024-12-29 03:34:34.267701,1001.42,crédito,alimentação,Leão,-33.126277,-60.34255,web,rejeitada
+155,156,2025-02-27 05:14:51.699651,1177.42,débito,alimentação,Camargo,-37.5047,72.10075,web,rejeitada
+156,183,2025-07-29 10:08:05.371825,3386.25,débito,outros,Vieira,34.539859,41.692651,tablet,aprovada
+157,414,2025-03-18 14:47:02.211461,323.01,crédito,alimentação,Abreu,10.567679,-59.774953,tablet,aprovada
+158,62,2024-11-12 17:31:43.336201,2812.1,crédito,saúde,Ribeiro,-18.999071,-14.967663,web,rejeitada
+159,394,2025-07-03 17:06:38.041960,238.15,crédito,transporte,Rocha,-25.158223,-177.767929,tablet,pendente
+160,310,2025-06-24 07:17:35.521636,3349.08,débito,lazer,Andrade,-85.83118,-165.908847,web,aprovada
+161,500,2025-07-22 01:03:45.561688,533.93,débito,outros,Moreira,71.046691,-9.559073,tablet,aprovada
+162,260,2025-02-14 10:51:54.415573,531.53,débito,outros,da Costa,59.180208,30.111086,celular,rejeitada
+163,81,2024-11-15 01:27:52.725067,3643.1,crédito,outros,Aragão,65.116399,50.372623,tablet,rejeitada
+164,376,2025-04-18 03:45:09.492090,4353.11,débito,moradia,Siqueira,-43.368126,36.422873,web,rejeitada
+165,420,2025-04-28 21:00:40.876855,693.17,débito,lazer,Lopes da Conceição S/A,-56.088473,90.720941,web,aprovada
+166,126,2024-07-18 06:06:30.794693,4174.89,crédito,saúde,Teixeira,78.394494,-40.29002,web,pendente
+167,88,2025-01-04 23:15:13.540628,430.74,crédito,moradia,Duarte Costela S/A,-64.964257,-166.234508,web,rejeitada
+168,323,2023-10-10 11:32:36.508743,3326.65,débito,outros,Alves Pinto e Filhos,55.940971,-137.709336,tablet,rejeitada
+169,404,2024-10-09 11:44:35.770006,1144.77,crédito,lazer,Souza e Filhos,-54.956285,63.581692,web,rejeitada
+170,488,2025-03-10 08:41:11.426357,4262.69,crédito,alimentação,Cirino,-25.650147,170.320467,web,aprovada
+171,395,2025-03-31 00:21:00.524375,54.69,débito,alimentação,Correia,53.724964,-48.330037,web,rejeitada
+172,206,2024-10-27 01:30:36.480463,4909.81,débito,lazer,Vargas,-20.078007,173.936281,celular,rejeitada
+173,389,2022-05-14 02:15:47.632228,190.28,débito,educação,Casa Grande e Filhos,-83.788183,162.731178,celular,pendente
+174,366,2025-08-16 15:43:48.920458,3996.36,crédito,lazer,Camargo - ME,69.959198,-114.134355,web,pendente
+175,359,2024-04-12 04:50:04.833573,2770.28,crédito,moradia,da Luz,-41.513122,-130.190651,tablet,rejeitada
+176,466,2025-04-06 06:56:14.486794,1724.07,crédito,educação,Costela,14.904632,-125.952283,tablet,aprovada
+177,359,2024-11-10 11:43:40.384078,2022.67,débito,educação,Jesus S/A,40.59849,155.910874,tablet,pendente
+178,334,2024-11-16 17:35:02.463878,2213.51,crédito,outros,Garcia,-5.822685,160.13553,tablet,rejeitada
+179,398,2025-06-29 11:09:35.824489,990.49,crédito,alimentação,Cirino da Rosa S/A,-42.03674,174.155699,celular,pendente
+180,172,2023-07-24 13:35:34.137410,1953.02,débito,educação,Campos Ltda.,3.089046,79.797734,tablet,rejeitada
+181,110,2025-08-15 20:51:34.486666,468.63,crédito,educação,Castro - EI,-21.682903,-114.719926,web,pendente
+182,82,2021-11-25 12:01:51.129920,121.99,crédito,transporte,Nascimento S/A,49.048203,94.740852,web,pendente
+183,217,2024-06-27 19:00:30.127017,4934.84,débito,moradia,Fonseca Camargo S.A.,-82.081794,-4.153445,celular,rejeitada
+184,133,2024-03-22 16:59:19.115119,3136.81,crédito,alimentação,Siqueira e Filhos,-56.021374,-36.338427,celular,pendente
+185,482,2025-01-19 14:33:14.566558,628.13,crédito,educação,Borges Ferreira e Filhos,58.041378,169.999319,tablet,aprovada
+186,233,2024-10-30 02:38:52.715291,1698.21,débito,outros,Lopes,47.615193,34.717306,tablet,pendente
+187,290,2025-06-15 16:17:44.614748,3574.66,débito,saúde,Cavalcanti,-36.882948,-29.094842,web,rejeitada
+188,342,2025-08-03 13:33:32.941597,3925.02,débito,moradia,Pacheco - EI,-6.359503,-91.065661,web,pendente
+189,378,2024-08-11 05:33:26.766328,1241.93,crédito,educação,Lopes,29.764556,47.492243,tablet,aprovada
+190,422,2024-02-06 20:24:19.846001,3893.85,crédito,alimentação,Dias,77.211388,-122.254643,celular,pendente
+191,218,2024-06-03 03:21:24.075939,4143.05,débito,alimentação,Costa,62.241031,9.470071,celular,rejeitada
+192,455,2024-03-01 01:38:35.034579,654.67,débito,lazer,Machado S.A.,-80.937618,94.532597,celular,rejeitada
+193,347,2024-12-03 12:45:47.272728,2633.65,crédito,outros,da Rocha,72.103365,166.334332,web,pendente
+194,256,2025-08-15 11:16:54.232274,3184.12,crédito,moradia,Gonçalves,-81.963055,-118.447775,web,pendente
+195,499,2024-07-13 22:52:28.090877,2087.53,débito,transporte,Lima,-40.093852,12.062624,tablet,aprovada
+196,249,2025-04-04 09:00:18.904066,3557.2,débito,moradia,Ribeiro Freitas Ltda.,-51.066209,-11.179386,tablet,pendente
+197,61,2022-07-29 13:21:25.286879,3473.88,crédito,lazer,Sales,-87.073779,-3.439592,celular,pendente
+198,81,2024-11-22 07:12:08.290948,4720.63,crédito,alimentação,da Conceição,60.764248,-144.44028,tablet,rejeitada
+199,57,2024-04-17 12:02:30.261843,608.73,crédito,alimentação,Moura Cunha S/A,60.581205,-30.723865,tablet,aprovada
+200,61,2024-08-23 00:14:21.648427,1860.48,crédito,saúde,Oliveira e Filhos,23.21269,53.649209,web,rejeitada
+201,15,2025-08-12 03:25:01.971242,3957.06,débito,outros,Costa,-37.085129,-153.339131,tablet,rejeitada
+202,25,2024-12-18 16:05:41.320757,4684.42,crédito,saúde,Aparecida,-16.337163,46.150024,celular,aprovada
+203,420,2022-10-24 09:36:42.729156,3699.6,débito,alimentação,Cavalcante,71.445319,-4.510452,tablet,rejeitada
+204,35,2025-06-10 10:23:43.353045,4352.78,crédito,lazer,Oliveira Almeida Ltda.,-85.212106,165.565878,tablet,rejeitada
+205,290,2025-02-20 16:57:11.481576,2264.61,crédito,outros,Martins Ltda.,-54.819374,36.257399,web,rejeitada
+206,428,2024-07-29 19:10:46.545942,3601.57,débito,outros,Fernandes e Filhos,-85.631939,-142.712106,celular,pendente
+207,326,2024-06-18 05:04:53.579636,2307.38,crédito,moradia,Silveira,-9.201391,-32.535762,web,aprovada
+208,444,2023-02-03 00:36:31.760989,3640.68,débito,outros,Guerra,-68.587653,118.741924,tablet,pendente
+209,320,2025-06-01 00:40:44.547681,2051.09,débito,lazer,Pimenta,-77.363998,31.166089,web,pendente
+210,24,2025-04-11 04:17:29.526938,4790.61,crédito,moradia,Monteiro,82.093201,-114.816922,web,pendente
+211,46,2025-04-26 23:29:34.467928,4330.44,débito,educação,Alves S.A.,-77.159594,-174.418676,tablet,pendente
+212,159,2021-09-03 18:44:28.595698,2807.42,débito,moradia,Sales,26.95262,-58.483964,tablet,aprovada
+213,99,2022-11-30 12:43:11.330499,4776.07,débito,educação,Silveira Freitas - EI,-88.673565,-151.819119,tablet,aprovada
+214,385,2022-04-13 23:24:08.400222,2381.8,débito,alimentação,Camargo S/A,-8.317749,-139.71204,tablet,pendente
+215,93,2024-04-17 02:02:58.210200,4812.07,crédito,outros,da Mata,-44.275073,-106.038877,celular,aprovada
+216,425,2024-05-11 11:38:44.556860,3529.56,crédito,alimentação,Cardoso Ltda.,-50.271155,133.602566,tablet,pendente
+217,165,2025-05-15 18:05:47.248528,2011.98,débito,lazer,Porto,29.931522,178.75607,celular,rejeitada
+218,224,2025-06-20 07:23:08.231956,906.64,débito,outros,Oliveira Mendes e Filhos,41.561248,-29.385373,tablet,rejeitada
+219,196,2025-02-03 23:54:55.390340,1289.6,débito,alimentação,Câmara,-65.357793,-38.366996,tablet,aprovada
+220,147,2024-08-05 15:06:14.745928,724.45,crédito,outros,Fogaça - EI,-24.93762,174.056047,celular,aprovada
+221,158,2023-12-12 04:15:02.881774,4761.06,débito,alimentação,Sales Barbosa S/A,42.76972,-147.644438,tablet,rejeitada
+222,93,2024-03-14 01:26:24.959492,140.72,débito,saúde,Martins Gomes S.A.,40.901362,-123.878349,web,aprovada
+223,164,2023-09-19 20:08:24.309124,716.59,crédito,saúde,Teixeira,-6.295,63.751186,web,aprovada
+224,27,2023-12-26 18:02:10.262223,1016.78,débito,lazer,Cardoso S.A.,7.614885,27.0044,tablet,pendente
+225,198,2025-07-25 01:56:03.024914,4747.04,crédito,alimentação,Vasconcelos Guerra S.A.,-71.574776,-30.836627,web,rejeitada
+226,284,2023-06-18 06:48:52.111827,2038.35,crédito,alimentação,Oliveira,84.048976,-125.204617,web,pendente
+227,120,2023-04-19 06:33:33.442845,4569.11,débito,saúde,Souza S/A,-25.424506,-171.094421,tablet,pendente
+228,346,2025-06-11 19:19:38.910640,512.04,débito,saúde,da Mata Alves - ME,87.673536,105.016932,tablet,rejeitada
+229,229,2023-03-21 16:49:59.432953,424.12,débito,outros,Campos,57.721176,-134.866997,celular,rejeitada
+230,277,2024-04-15 07:47:47.676508,4926.62,débito,educação,Cassiano Gonçalves - EI,25.654992,92.691136,web,pendente
+231,232,2024-02-05 15:18:16.798730,213.75,crédito,outros,da Mata,9.262246,-127.487206,tablet,rejeitada
+232,335,2022-10-08 01:00:59.899353,4860.55,débito,alimentação,Siqueira,23.437704,-75.88375,web,rejeitada
+233,307,2024-03-30 01:31:20.842782,1258.19,crédito,saúde,Cavalcanti,69.463859,-31.863519,tablet,aprovada
+234,300,2024-02-14 14:07:24.143232,4204.22,crédito,alimentação,Moreira,26.384311,-121.381987,celular,pendente
+235,274,2024-05-28 14:12:48.869858,2817.59,crédito,alimentação,Camargo Câmara S/A,-75.73594,-160.840175,web,pendente
+236,63,2024-01-09 11:30:39.077228,4153.34,crédito,lazer,Azevedo Nascimento S/A,-16.056908,-58.417524,celular,pendente
+237,259,2025-05-03 05:54:15.333674,4787.3,crédito,moradia,Gonçalves,15.464379,-125.612681,web,pendente
+238,134,2023-12-07 00:09:26.459382,4898.3,crédito,saúde,Monteiro,-34.781384,-88.179443,celular,pendente
+239,165,2025-02-18 05:01:32.140765,1711.44,crédito,educação,Porto,-12.69259,140.143316,web,aprovada
+240,468,2025-05-07 17:23:40.766839,3460.77,débito,educação,Brito S.A.,45.087499,153.997246,web,aprovada
+241,462,2023-06-09 08:10:25.885062,52.85,débito,lazer,Sales,-25.946068,-88.607081,tablet,pendente
+242,361,2022-06-02 18:03:41.159121,2447.44,crédito,educação,Cavalcante S.A.,-0.837738,64.392401,celular,pendente
+243,334,2024-12-06 06:00:52.495809,392.23,débito,outros,Rios - ME,24.869584,-0.656041,tablet,rejeitada
+244,345,2021-10-07 00:43:11.231543,621.46,crédito,outros,Barbosa,-44.171327,-174.774168,tablet,rejeitada
+245,199,2024-04-23 04:56:26.970646,890.05,débito,alimentação,Pacheco,-89.729827,82.158004,web,rejeitada
+246,480,2025-01-27 03:57:17.215322,968.99,débito,transporte,Camargo,-77.87302,-170.663376,tablet,aprovada
+247,389,2024-02-21 13:23:54.294690,1409.27,crédito,transporte,da Conceição,51.000873,90.124704,celular,pendente
+248,321,2023-02-05 00:34:51.323719,1519.38,débito,transporte,Vasconcelos Brito S/A,-8.233951,0.215404,web,rejeitada
+249,19,2023-06-13 09:52:36.697098,1407.38,débito,alimentação,Nogueira,-20.920952,176.164736,celular,pendente
+250,203,2023-09-23 03:27:36.400265,559.18,crédito,educação,Marques,-86.359733,9.314845,tablet,rejeitada
+251,88,2022-12-22 05:47:52.496719,2761.17,débito,alimentação,Moreira,88.224237,139.837379,tablet,aprovada
+252,382,2023-07-06 23:06:07.254343,329.92,crédito,educação,Rodrigues,49.400922,163.490176,celular,pendente
+253,374,2020-12-20 01:01:05.444661,3912.35,débito,outros,Câmara,86.997457,-103.961294,tablet,aprovada
+254,497,2024-06-26 11:50:56.743569,3466.46,crédito,moradia,da Cruz - EI,25.620658,12.962107,tablet,rejeitada
+255,2,2023-11-20 15:24:22.372401,4689.76,débito,outros,Correia - ME,81.458787,-122.054633,web,rejeitada
+256,433,2025-06-19 01:19:24.303066,4975.56,crédito,alimentação,Moura,-43.036613,-37.563138,tablet,pendente
+257,239,2025-04-01 21:44:23.007327,2480.4,débito,moradia,Farias,14.965303,136.296336,celular,aprovada
+258,143,2024-09-13 05:39:52.045740,4592.37,crédito,saúde,das Neves,-38.84354,-157.93462,celular,rejeitada
+259,100,2025-01-15 15:33:04.807717,1676.86,débito,moradia,Pimenta,-56.992838,52.711861,celular,pendente
+260,217,2024-08-26 18:24:45.937677,4789.09,débito,transporte,da Paz,-60.420943,-175.525246,celular,rejeitada
+261,160,2024-06-04 12:01:43.155128,318.91,débito,alimentação,Martins Rodrigues S.A.,50.441718,-24.424594,web,rejeitada
+262,414,2023-12-01 04:09:16.489295,125.0,crédito,outros,da Rosa Mendonça Ltda.,-72.654642,-21.769789,web,aprovada
+263,56,2022-03-05 23:42:18.748187,2370.51,crédito,outros,Cunha Ltda.,69.201452,-113.730928,celular,rejeitada
+264,267,2024-06-07 13:39:52.932035,3971.59,débito,outros,Abreu,25.513905,9.115741,tablet,pendente
+265,225,2024-06-03 22:26:37.038449,3821.67,crédito,educação,Aragão Ltda.,-53.031396,8.02198,celular,aprovada
+266,499,2025-06-20 14:19:47.948242,308.13,débito,lazer,Borges Silva Ltda.,-51.709224,-74.382775,web,pendente
+267,34,2023-06-19 19:09:54.391614,3914.32,débito,outros,da Rocha S.A.,-81.373374,74.035376,web,aprovada
+268,155,2025-05-08 21:21:10.584155,3055.64,crédito,alimentação,Rocha Porto - ME,23.430969,34.27248,celular,pendente
+269,29,2025-07-05 01:13:15.604030,2798.49,crédito,outros,da Luz Ltda.,70.266381,-13.174985,web,rejeitada
+270,50,2023-05-20 05:49:40.113641,3088.42,crédito,transporte,Rocha,-3.434962,130.401271,tablet,pendente
+271,320,2024-10-21 16:42:31.711490,57.98,crédito,lazer,da Cunha Carvalho - ME,58.789417,-72.881811,web,pendente
+272,318,2022-03-09 04:18:33.722095,510.88,débito,lazer,da Rosa - EI,78.663051,67.580373,tablet,rejeitada
+273,301,2025-06-17 06:19:47.598071,966.44,débito,alimentação,Viana,27.277523,-128.437683,tablet,pendente
+274,35,2025-03-25 13:09:25.924836,2966.47,débito,educação,Sales,-5.909786,90.483708,celular,pendente
+275,261,2025-06-07 16:15:29.763535,1285.15,crédito,lazer,Martins,5.078187,49.603138,tablet,pendente
+276,228,2025-03-05 12:17:47.380644,933.69,débito,outros,Martins,-82.571602,120.06204,celular,aprovada
+277,66,2021-02-11 18:08:49.148158,1561.78,crédito,educação,Borges,-52.261843,150.287574,tablet,rejeitada
+278,160,2025-05-29 00:27:14.730480,2920.41,débito,transporte,Pacheco Moraes Ltda.,-55.834915,153.337641,web,rejeitada
+279,309,2023-07-23 16:19:39.150306,1717.79,crédito,alimentação,Aragão,15.403685,-112.388711,tablet,pendente
+280,337,2024-09-14 10:09:27.667026,3393.11,débito,transporte,Martins - EI,33.539567,-150.823088,tablet,pendente
+281,440,2021-05-11 08:01:24.295295,277.76,crédito,transporte,Rezende,-61.264276,-0.962434,celular,pendente
+282,466,2025-06-20 16:58:30.268735,1010.3,débito,saúde,Nunes,39.243054,-2.13059,celular,pendente
+283,244,2025-05-24 17:49:59.863834,3475.43,crédito,educação,Sousa - EI,47.122432,-151.534961,tablet,rejeitada
+284,437,2024-09-26 17:46:33.234053,2894.16,crédito,educação,Novais Sousa - ME,-53.384664,-59.985955,web,rejeitada
+285,169,2025-08-02 15:11:54.438760,815.59,crédito,outros,da Rosa Pires Ltda.,-88.268378,80.358308,celular,rejeitada
+286,113,2023-10-04 09:00:09.019349,4600.17,débito,moradia,Camargo Azevedo S/A,-48.923448,144.157642,celular,rejeitada
+287,320,2025-07-07 20:47:47.201520,1069.63,crédito,moradia,da Cruz S.A.,-62.188201,74.338516,web,pendente
+288,193,2025-07-27 13:32:39.527931,1030.56,débito,outros,Gonçalves,-75.060719,-114.602993,celular,rejeitada
+289,6,2022-11-14 20:33:43.640343,373.29,débito,educação,Cirino,-26.937036,113.517661,celular,aprovada
+290,149,2023-02-18 21:15:29.445131,2204.84,crédito,alimentação,Ribeiro,75.667229,-113.859368,celular,aprovada
+291,102,2023-09-12 05:34:15.648302,1424.08,débito,saúde,Cirino S.A.,86.487015,-50.784891,tablet,aprovada
+292,174,2023-09-14 23:15:51.183316,4238.43,débito,transporte,Melo Mendes Ltda.,-12.301618,178.380408,celular,aprovada
+293,91,2022-05-10 21:57:36.423313,4215.19,débito,alimentação,Freitas,89.234262,-32.263138,tablet,aprovada
+294,195,2024-01-10 01:30:23.413222,3276.07,débito,saúde,Martins - ME,24.040229,-100.453697,celular,rejeitada
+295,234,2023-06-24 15:00:12.343819,1204.55,crédito,moradia,Campos,61.453723,29.073317,celular,pendente
+296,410,2020-11-09 10:14:01.229032,4988.49,crédito,moradia,Andrade,83.170125,169.192824,celular,aprovada
+297,74,2025-05-27 22:23:36.102074,4414.2,débito,outros,Aparecida,5.221268,-105.211991,celular,aprovada
+298,273,2023-04-06 05:35:02.551136,1894.09,crédito,saúde,da Mota,-87.551852,-95.005536,tablet,rejeitada
+299,326,2024-03-19 22:43:37.472290,1226.53,débito,outros,Ferreira Santos - EI,14.857419,95.43902,tablet,pendente
+300,97,2024-09-15 14:07:41.603457,4272.9,crédito,outros,Fogaça Rezende e Filhos,61.168827,2.155509,celular,rejeitada
+301,127,2025-06-02 02:44:19.579066,271.03,crédito,outros,da Mota Viana e Filhos,-8.682878,31.488876,celular,pendente
+302,496,2021-02-16 09:11:51.440686,2922.49,crédito,transporte,Garcia,36.635047,145.258837,tablet,aprovada
+303,402,2025-02-20 21:16:50.140123,2355.98,débito,transporte,Cardoso,-3.006346,136.137563,tablet,rejeitada
+304,385,2025-06-05 20:59:53.180986,4412.7,crédito,lazer,Pacheco,75.752189,36.774439,tablet,rejeitada
+305,92,2023-07-05 05:03:22.642101,1612.51,crédito,educação,Siqueira S.A.,-27.802347,-128.170248,tablet,rejeitada
+306,367,2025-06-18 08:00:41.033431,4778.98,crédito,saúde,Rocha,37.886142,-6.236693,tablet,rejeitada
+307,327,2025-02-04 11:33:11.789355,4606.32,débito,transporte,Caldeira Cavalcanti e Filhos,13.101619,45.51593,celular,aprovada
+308,232,2025-06-14 14:45:49.377874,4316.53,crédito,transporte,Pimenta Ltda.,-59.271177,-159.911218,web,rejeitada
+309,456,2025-06-25 23:30:53.912789,1888.53,débito,outros,Macedo Ltda.,72.815043,158.923413,web,rejeitada
+310,282,2025-05-06 09:24:18.297302,428.37,débito,saúde,Duarte Caldeira e Filhos,30.664323,22.737996,web,pendente
+311,181,2022-10-31 04:20:19.118763,1154.74,débito,lazer,Costa da Cunha - ME,27.444499,-26.406957,tablet,pendente
+312,173,2025-05-04 20:49:44.102898,2133.38,crédito,lazer,Lopes Moura S.A.,-66.909638,132.516827,web,rejeitada
+313,412,2022-02-18 17:33:17.570741,2490.23,crédito,lazer,Costela S/A,-52.268017,-177.18879,celular,aprovada
+314,227,2025-03-13 03:08:40.054480,1172.78,débito,saúde,Nunes,56.721677,-141.364022,celular,rejeitada
+315,432,2024-10-11 18:39:56.092157,2511.32,débito,outros,Correia,-34.306413,126.215098,web,aprovada
+316,51,2025-07-07 03:30:54.705670,597.35,crédito,alimentação,Fogaça,76.021655,119.948332,tablet,aprovada
+317,171,2025-01-25 06:07:38.300989,987.25,crédito,saúde,Macedo - ME,77.898512,21.926935,web,pendente
+318,418,2025-01-26 17:52:55.587991,3843.57,crédito,transporte,Cardoso - EI,-9.945303,-125.822744,tablet,pendente
+319,71,2022-11-06 20:08:37.227016,4992.03,crédito,alimentação,Aragão Peixoto - EI,-1.169393,-167.897598,web,rejeitada
+320,422,2022-09-09 05:51:56.732266,1736.43,crédito,lazer,da Cunha,14.80429,12.148891,tablet,pendente
+321,7,2023-04-07 23:37:56.549724,2362.66,débito,outros,da Paz Barbosa - EI,64.445917,-50.400222,web,aprovada
+322,117,2025-08-06 10:14:02.575499,3618.06,débito,lazer,Guerra,76.066232,-149.587232,celular,pendente
+323,301,2025-06-17 06:41:49.324091,3930.94,crédito,moradia,Pacheco - ME,-19.38723,170.701261,web,rejeitada
+324,406,2023-12-01 08:41:56.810984,433.95,débito,lazer,Leão,-19.970261,-72.351337,tablet,rejeitada
+325,108,2024-03-22 13:30:48.760310,2196.21,débito,saúde,Carvalho S.A.,56.857641,-3.042426,celular,pendente
+326,448,2025-06-24 02:08:23.815625,646.09,débito,lazer,da Costa - ME,-70.427861,122.717988,tablet,rejeitada
+327,174,2025-05-29 16:04:55.230430,1131.33,crédito,moradia,Ferreira S/A,21.733622,141.128061,web,pendente
+328,276,2025-07-31 03:30:46.182467,1501.69,débito,educação,Novaes - ME,-55.247117,-34.771906,celular,aprovada
+329,79,2024-04-19 19:26:00.428127,4886.33,crédito,educação,Andrade - ME,46.258983,-59.072491,tablet,pendente
+330,468,2025-06-29 05:25:53.594018,3041.15,crédito,lazer,Mendes,-8.551756,-57.724892,celular,rejeitada
+331,33,2022-05-02 09:27:44.386511,2674.78,débito,lazer,Alves S.A.,53.394424,146.492083,celular,rejeitada
+332,292,2025-03-28 20:17:37.438023,4809.88,crédito,alimentação,Novaes - ME,-76.003664,27.836039,celular,aprovada
+333,346,2025-03-21 05:56:50.089481,2766.77,débito,outros,Lopes Sampaio - ME,57.517342,-106.035062,tablet,pendente
+334,251,2023-01-05 01:09:18.301984,139.06,débito,alimentação,Pimenta Ltda.,4.432667,-76.037293,web,rejeitada
+335,106,2024-10-28 00:36:11.672364,1169.03,débito,lazer,da Costa S.A.,-65.306406,136.011601,celular,rejeitada
+336,266,2024-09-03 13:06:49.435143,60.18,crédito,outros,Souza,53.93981,124.968778,web,rejeitada
+337,81,2024-09-25 16:44:09.929685,4948.03,débito,educação,Silveira S.A.,-74.73041,-138.869418,web,rejeitada
+338,381,2023-07-15 22:34:23.629346,348.47,débito,transporte,Cirino,-14.141219,-156.528311,celular,rejeitada
+339,222,2022-12-08 17:39:15.957933,4090.39,crédito,transporte,da Rocha Cardoso - EI,16.78863,77.000838,tablet,pendente
+340,481,2025-05-20 04:27:58.472051,1555.02,débito,educação,Barbosa Ltda.,55.933915,-69.479239,tablet,pendente
+341,235,2023-03-21 14:18:43.316149,1380.83,débito,transporte,Câmara,29.062355,-17.479023,web,aprovada
+342,423,2025-07-08 05:59:22.951878,1999.19,débito,educação,Rezende,-24.446507,102.847319,web,pendente
+343,451,2025-07-15 23:23:22.370363,2457.34,crédito,educação,Sampaio,55.336104,90.285192,celular,pendente
+344,47,2022-08-22 07:54:48.322303,1443.12,crédito,saúde,Jesus,76.932435,81.030771,tablet,pendente
+345,406,2024-05-10 17:01:10.911374,1490.76,débito,lazer,Carvalho Moreira S.A.,-8.143507,116.871181,celular,aprovada
+346,461,2024-11-29 22:50:53.338929,3090.59,crédito,lazer,Silveira,-51.892571,-160.743691,web,pendente
+347,94,2025-07-27 16:02:01.447277,3494.12,débito,lazer,Rezende,31.806072,-118.668597,tablet,aprovada
+348,123,2021-06-28 21:21:47.655292,4428.28,débito,saúde,da Mata Ltda.,67.904515,26.253273,tablet,pendente
+349,150,2022-08-06 19:41:25.912195,3334.95,débito,moradia,Araújo Ltda.,73.677909,26.124208,tablet,pendente
+350,462,2023-07-07 19:58:41.983986,1090.19,crédito,lazer,Gomes,29.190641,-156.154583,tablet,aprovada
+351,189,2022-05-06 10:06:28.690595,387.29,débito,educação,Cirino,87.147454,51.436979,web,rejeitada
+352,231,2024-02-19 10:10:05.534381,828.37,débito,educação,Andrade,55.370997,6.726138,celular,rejeitada
+353,14,2025-08-15 06:06:23.389351,370.61,crédito,lazer,da Luz,68.634248,-63.743745,web,pendente
+354,205,2024-12-26 16:37:48.775651,4279.59,crédito,alimentação,Silveira,76.840829,53.042782,celular,rejeitada
+355,59,2025-08-10 17:07:44.150049,3546.95,débito,saúde,Caldeira - EI,14.182635,-25.693384,tablet,pendente
+356,238,2025-02-06 01:38:41.777102,2426.37,débito,alimentação,Lima,63.706827,125.105378,tablet,pendente
+357,125,2024-07-18 07:24:07.674931,3569.34,crédito,transporte,Castro,12.352032,70.897208,web,rejeitada
+358,431,2025-05-20 14:48:15.650851,811.03,débito,educação,Cardoso Albuquerque Ltda.,-16.343237,-134.077745,celular,aprovada
+359,151,2025-08-18 17:39:29.828758,625.14,crédito,transporte,Fernandes,63.298828,31.84991,celular,pendente
+360,391,2024-11-22 19:19:49.313715,61.0,crédito,transporte,Fonseca,-17.858683,173.92138,web,rejeitada
+361,92,2023-12-04 09:34:42.319143,1087.28,débito,moradia,Campos Ltda.,62.58974,174.75167,tablet,aprovada
+362,227,2025-03-03 13:40:10.193278,3485.23,débito,lazer,Cavalcanti,29.133986,68.4232,tablet,rejeitada
+363,228,2024-10-16 09:14:48.199883,266.81,débito,alimentação,Martins S/A,6.294147,77.809659,web,aprovada
+364,476,2023-12-11 17:31:00.870390,1252.25,débito,transporte,Jesus Araújo - EI,-68.646793,-31.584364,celular,aprovada
+365,216,2025-02-22 17:06:55.755302,144.58,débito,saúde,Azevedo,28.229583,-83.468509,celular,pendente
+366,343,2024-09-27 05:40:14.058642,320.54,débito,outros,da Luz,42.856473,-111.697952,tablet,aprovada
+367,371,2022-11-18 14:51:41.133552,839.4,crédito,educação,Casa Grande Pinto e Filhos,-76.691057,-55.084927,celular,rejeitada
+368,166,2025-04-17 21:29:14.406256,2812.46,débito,educação,Cirino e Filhos,46.021395,56.38903,celular,pendente
+369,203,2024-01-27 16:29:36.853616,4694.92,débito,transporte,Novaes e Filhos,-28.809486,-147.351342,celular,aprovada
+370,183,2025-07-29 21:34:51.443390,1620.22,débito,lazer,da Cunha,-85.67331,9.695306,tablet,rejeitada
+371,7,2024-06-18 22:17:32.543975,1948.99,crédito,transporte,Peixoto S.A.,3.879838,-121.393301,celular,pendente
+372,418,2021-07-16 12:10:53.908084,1395.9,crédito,alimentação,Camargo,47.180053,-138.419228,celular,aprovada
+373,211,2021-12-30 07:35:47.528844,1511.16,crédito,alimentação,Oliveira,9.68602,43.322017,tablet,pendente
+374,406,2023-12-28 02:41:19.097173,4952.7,débito,saúde,da Paz,-51.592394,-166.742188,celular,pendente
+375,167,2024-09-23 15:24:20.072900,4907.17,crédito,moradia,Farias,19.558588,170.028137,tablet,aprovada
+376,171,2023-03-25 16:25:14.646901,880.78,crédito,outros,Pinto,-81.636248,-93.93271,tablet,rejeitada
+377,35,2025-05-03 13:41:08.811273,1678.85,crédito,lazer,Cassiano,68.706406,-166.290845,tablet,pendente
+378,380,2024-03-02 12:21:31.487031,1165.97,débito,transporte,Dias Moraes e Filhos,46.414139,132.183186,celular,pendente
+379,389,2024-08-22 16:09:50.662145,4484.41,crédito,transporte,Garcia Pacheco S/A,86.37802,-99.429267,tablet,rejeitada
+380,388,2022-09-03 08:09:39.550136,1221.51,débito,alimentação,Barbosa S.A.,61.774046,90.312295,celular,rejeitada
+381,256,2025-08-18 17:42:24.870441,1486.59,débito,lazer,Nascimento,-57.45425,103.337059,celular,pendente
+382,20,2025-05-02 03:26:59.955968,1194.13,crédito,moradia,Ribeiro,50.780456,99.353262,web,aprovada
+383,143,2024-09-27 01:32:05.838775,1591.11,débito,educação,Correia,64.415815,-22.661764,web,pendente
+384,417,2025-06-09 15:26:20.380736,1445.83,débito,transporte,da Cruz,7.164229,-56.0415,tablet,rejeitada
+385,176,2022-12-09 14:49:56.382776,1215.03,débito,moradia,Sales S.A.,29.455786,40.077246,celular,pendente
+386,357,2023-03-16 14:42:05.429281,3598.91,crédito,educação,Novais,45.732629,-138.959567,web,aprovada
+387,227,2025-07-28 17:27:42.784631,3150.76,débito,outros,Pereira,-28.165937,61.037871,web,aprovada
+388,489,2025-07-19 18:44:53.176790,966.36,débito,transporte,Nunes Cardoso - EI,-24.248366,38.837944,celular,aprovada
+389,89,2024-07-24 04:14:39.863544,2965.19,débito,transporte,Pereira da Luz Ltda.,1.689984,-11.506103,tablet,aprovada
+390,219,2023-06-15 09:22:09.633009,3626.32,crédito,transporte,Leão,45.566867,-100.329122,tablet,aprovada
+391,126,2025-02-09 03:23:05.270001,2122.96,débito,saúde,Cirino Marques S/A,-45.232765,-115.151984,web,pendente
+392,230,2022-12-07 12:34:07.535759,4838.79,débito,saúde,Souza,-62.889261,-112.140617,web,aprovada
+393,487,2025-03-25 19:51:27.576082,4862.91,crédito,lazer,Alves,-45.188558,-140.800527,celular,rejeitada
+394,226,2021-05-25 21:10:38.717433,2116.37,crédito,outros,Lima,5.124875,-111.5742,celular,rejeitada
+395,11,2023-08-26 03:52:44.127051,3810.84,crédito,outros,Silva da Rocha S/A,0.411287,0.732483,celular,rejeitada
+396,305,2023-10-09 23:17:27.712229,2688.3,débito,saúde,Silveira S/A,-70.202202,10.566426,web,rejeitada
+397,157,2025-07-19 02:15:43.627353,2270.75,crédito,educação,Pires,30.729842,53.909366,tablet,rejeitada
+398,37,2024-03-06 18:41:38.769880,1669.5,crédito,transporte,Sampaio,-53.867101,-81.510614,celular,aprovada
+399,3,2024-05-17 13:11:56.124880,69.11,crédito,lazer,Cassiano S/A,69.330747,138.390368,web,rejeitada
+400,482,2025-02-16 14:12:32.917688,1976.28,crédito,lazer,Garcia,-3.98338,55.464627,web,rejeitada
+401,329,2024-12-30 15:20:30.519474,4937.67,débito,lazer,Vargas,-63.988979,-55.304459,celular,aprovada
+402,198,2023-09-19 19:53:12.820506,4660.99,débito,transporte,Aragão,61.432854,97.926064,web,rejeitada
+403,395,2025-03-30 04:13:39.236206,4565.86,crédito,educação,da Paz,-3.349015,26.194802,tablet,rejeitada
+404,326,2024-02-17 10:04:47.537104,3444.0,débito,moradia,Casa Grande Aparecida e Filhos,-33.445834,51.14314,web,rejeitada
+405,377,2023-07-12 00:56:01.650385,1237.73,crédito,alimentação,Brito,3.239878,-27.104017,web,pendente
+406,362,2022-08-28 13:59:32.189377,3383.75,débito,saúde,da Mota,40.630282,55.641635,tablet,rejeitada
+407,484,2022-07-10 03:36:57.330187,3406.93,crédito,transporte,da Paz da Luz - EI,-61.513778,-55.620655,tablet,pendente
+408,488,2025-03-24 11:44:36.838535,3314.71,débito,alimentação,Brito Costela - EI,46.552625,-89.348046,celular,aprovada
+409,330,2023-04-28 17:01:41.420983,3559.49,crédito,lazer,Nogueira - EI,-37.619473,-176.421697,tablet,pendente
+410,499,2024-12-11 18:09:16.838373,4505.47,débito,lazer,Freitas S.A.,-14.344817,126.64196,celular,rejeitada
+411,130,2023-06-03 11:13:57.724733,3460.72,crédito,educação,Moreira,-56.129163,63.658529,web,pendente
+412,211,2022-04-10 03:58:14.900520,3763.55,débito,alimentação,Silva e Filhos,-57.803692,58.588151,tablet,pendente
+413,398,2025-06-18 18:49:59.023359,3988.68,débito,saúde,da Luz,-66.68267,-106.546379,tablet,aprovada
+414,477,2025-08-11 16:42:56.259823,3742.71,crédito,alimentação,Fogaça S/A,-30.288742,-140.083471,celular,rejeitada
+415,1,2024-05-31 20:38:13.831820,488.87,crédito,educação,da Mota,31.725831,158.563649,web,pendente
+416,148,2025-03-05 19:48:52.509483,3666.55,débito,transporte,Santos e Filhos,-5.493855,-159.407325,web,aprovada
+417,361,2022-12-22 07:51:38.312198,675.99,crédito,transporte,Correia,59.832695,174.941693,tablet,aprovada
+418,231,2025-02-10 02:26:46.066030,2837.63,débito,transporte,Porto e Filhos,-87.860412,-47.976069,celular,aprovada
+419,384,2021-10-11 05:27:20.674909,917.73,débito,saúde,Câmara,-37.473005,-37.575639,web,rejeitada
+420,321,2024-01-07 17:10:53.196372,4565.29,débito,outros,Cirino,43.338979,-28.280456,tablet,aprovada
+421,41,2021-06-25 23:05:35.250390,1469.16,crédito,alimentação,Moreira e Filhos,-32.504056,-178.283241,web,aprovada
+422,176,2022-10-31 18:22:26.917932,153.18,débito,lazer,Novais,74.072366,-68.037197,web,pendente
+423,390,2025-01-02 23:21:36.654089,508.54,débito,saúde,Leão e Filhos,-19.38166,149.304925,celular,pendente
+424,299,2025-04-04 14:54:51.451748,3947.09,débito,alimentação,Porto Ferreira - ME,52.394577,172.692495,celular,pendente
+425,406,2025-07-20 09:27:29.904007,41.27,crédito,lazer,da Conceição,-11.585731,178.616777,web,rejeitada
+426,310,2024-11-05 02:58:58.094549,2150.12,crédito,moradia,Peixoto,5.865784,111.7428,web,rejeitada
+427,419,2024-12-21 02:40:20.550096,1201.79,crédito,moradia,Câmara S/A,-12.886183,45.267825,web,rejeitada
+428,313,2025-07-30 00:11:22.351271,290.92,crédito,outros,da Cruz,87.816529,48.097813,web,aprovada
+429,2,2023-09-08 23:45:25.776310,2287.31,crédito,moradia,Dias,87.331915,-119.045666,celular,aprovada
+430,309,2022-09-02 05:54:58.063691,618.86,crédito,moradia,Santos,-55.624729,79.705254,celular,rejeitada
+431,232,2025-04-06 10:44:58.581504,3093.67,crédito,educação,Peixoto,20.59619,-53.910475,web,pendente
+432,97,2024-09-03 10:09:31.929084,20.63,crédito,alimentação,Montenegro,-32.257877,39.583328,tablet,rejeitada
+433,448,2023-09-27 17:51:57.673971,233.54,crédito,moradia,da Luz,-4.739971,40.776935,web,aprovada
+434,311,2024-09-27 22:51:27.678513,2425.26,débito,saúde,Lima,17.019716,-40.038088,web,rejeitada
+435,338,2025-03-26 08:13:27.996852,4286.21,débito,moradia,Mendonça,-31.22654,2.451047,web,rejeitada
+436,311,2025-02-05 16:41:02.769446,979.41,débito,outros,das Neves - ME,20.007949,-61.185073,tablet,pendente
+437,402,2025-01-06 12:02:20.591559,4284.73,débito,transporte,Nascimento Costela e Filhos,-60.387377,149.265063,web,aprovada
+438,155,2024-01-04 21:14:02.406008,4162.61,crédito,transporte,Pereira Nogueira S/A,-84.331262,23.575076,web,aprovada
+439,247,2025-08-05 08:14:57.657484,3314.9,débito,transporte,Fogaça,58.416405,-145.927608,celular,aprovada
+440,386,2024-09-05 18:54:53.062554,4721.33,débito,alimentação,Fonseca Nascimento S.A.,-47.857537,107.60111,web,pendente
+441,15,2025-08-12 21:52:02.631233,805.38,crédito,lazer,da Rocha Castro Ltda.,-1.013079,41.939902,web,aprovada
+442,369,2023-03-03 06:52:30.588505,1291.85,crédito,moradia,Albuquerque Andrade S/A,51.346134,-124.959602,celular,pendente
+443,70,2025-01-13 14:20:46.554444,4614.07,crédito,alimentação,Aparecida,-47.870262,-28.017361,tablet,rejeitada
+444,447,2024-11-13 22:48:01.073011,1122.91,débito,moradia,Pires Vargas e Filhos,-23.613565,-161.865568,web,rejeitada
+445,467,2024-11-13 07:42:24.356704,3588.63,crédito,moradia,Viana - ME,85.899302,35.151521,tablet,pendente
+446,495,2022-12-15 13:51:53.575480,4281.42,débito,transporte,Barros,-69.457417,-140.330478,web,aprovada
+447,149,2023-12-17 00:05:57.347018,442.96,débito,saúde,Almeida,-86.042783,110.821872,tablet,pendente
+448,480,2023-11-22 23:04:42.815751,944.84,débito,educação,Brito Sousa - EI,14.991523,-75.694532,web,aprovada
+449,437,2025-02-15 16:56:24.061899,1570.29,crédito,educação,Viana,-3.100267,48.252123,tablet,aprovada
+450,160,2024-06-16 07:16:57.738921,314.12,débito,outros,da Rosa Ltda.,33.186544,-71.194146,web,rejeitada
+451,164,2023-01-07 15:34:20.858162,3857.55,débito,educação,Garcia,-11.821219,50.604617,tablet,pendente
+452,303,2024-07-24 02:23:17.755469,1114.6,crédito,alimentação,Novais,-15.225184,79.496299,tablet,rejeitada
+453,162,2024-09-28 02:18:40.992136,727.78,crédito,outros,Garcia Almeida - ME,15.668323,20.11201,celular,rejeitada
+454,349,2025-06-30 13:21:30.216088,2281.64,crédito,transporte,Machado S.A.,65.123343,-166.63628,tablet,pendente
+455,435,2023-12-24 16:50:21.895140,4007.45,débito,educação,Machado Freitas - ME,61.170305,-121.508747,web,rejeitada
+456,258,2024-10-06 19:44:43.268882,4951.72,débito,saúde,Casa Grande,79.091205,-135.099045,tablet,pendente
+457,245,2024-01-06 06:40:53.686925,3157.23,débito,lazer,Costela Mendonça - EI,-22.899441,-134.962556,web,pendente
+458,495,2022-12-26 23:32:48.826107,1886.66,crédito,transporte,Moreira,62.106054,-55.215223,tablet,aprovada
+459,435,2023-01-19 23:38:51.408906,3664.63,débito,moradia,da Cunha,20.557447,-12.788893,tablet,aprovada
+460,473,2024-11-20 18:02:11.799006,4327.83,débito,outros,Andrade Duarte e Filhos,61.749881,141.440771,web,pendente
+461,201,2023-04-23 07:10:05.604635,1499.01,débito,alimentação,da Mata e Filhos,-33.836813,121.941298,tablet,rejeitada
+462,173,2025-07-21 18:49:55.858191,2115.08,crédito,saúde,Dias,85.022233,-53.438408,web,rejeitada
+463,37,2024-03-31 01:19:30.584006,2641.58,crédito,saúde,Moraes,58.929935,-136.280292,tablet,aprovada
+464,359,2025-07-06 08:06:12.300682,4281.98,crédito,alimentação,Sampaio,-69.195059,21.694912,celular,rejeitada
+465,386,2023-03-25 00:46:03.070010,3957.43,débito,outros,Castro - EI,-57.391081,-90.773679,tablet,rejeitada
+466,235,2021-10-18 09:13:37.867965,3274.9,débito,lazer,Andrade - ME,42.925086,-88.344278,tablet,rejeitada
+467,150,2024-01-04 18:36:32.043543,4486.6,débito,transporte,Carvalho,56.857025,44.491146,tablet,aprovada
+468,377,2023-01-01 14:31:20.084724,3257.93,crédito,moradia,Campos,26.89811,-22.03988,tablet,aprovada
+469,348,2025-03-16 04:59:30.704439,3928.57,débito,lazer,Moreira,-3.460129,150.229558,web,pendente
+470,431,2025-07-10 16:32:33.665028,845.27,débito,alimentação,Casa Grande da Rocha - EI,-35.115192,149.638642,web,rejeitada
+471,92,2025-07-09 22:53:40.952840,4725.59,débito,educação,Moreira,72.274006,-45.116893,tablet,rejeitada
+472,304,2024-04-23 10:56:30.540596,2171.94,débito,moradia,Farias Souza e Filhos,-53.670147,-91.825282,tablet,rejeitada
+473,126,2025-01-16 21:53:00.334022,174.79,débito,lazer,Albuquerque,-4.72127,43.500943,web,rejeitada
+474,353,2025-02-03 19:33:33.313182,2982.8,débito,moradia,Azevedo,-88.496109,-12.581902,tablet,rejeitada
+475,398,2025-03-07 17:27:18.599447,3460.52,débito,outros,Sales Brito - EI,33.102777,-2.276868,web,pendente
+476,196,2024-11-30 08:41:12.006159,1379.7,crédito,saúde,Peixoto,-48.002462,-144.152056,celular,aprovada
+477,60,2023-03-26 01:43:56.101620,417.77,crédito,moradia,Ferreira Pires S/A,-38.288415,-32.585655,tablet,pendente
+478,116,2025-02-10 23:51:05.941182,120.02,crédito,saúde,Pacheco,-7.925773,17.179158,tablet,pendente
+479,49,2025-04-02 17:55:13.221043,3972.75,débito,lazer,da Cunha,60.622435,110.456287,web,pendente
+480,360,2025-02-06 00:48:29.937419,2171.11,débito,alimentação,Barbosa Pastor S.A.,-62.357515,-63.798871,web,aprovada
+481,366,2025-05-05 03:02:21.763219,4544.86,débito,lazer,Nunes,-62.533113,-111.976261,tablet,aprovada
+482,202,2024-12-11 06:23:50.472046,2782.52,crédito,alimentação,Farias,64.526402,137.918835,tablet,pendente
+483,276,2025-07-21 11:25:56.786249,3570.18,débito,outros,Costela,-44.876163,-178.566133,celular,pendente
+484,460,2024-11-19 04:03:25.424860,591.04,débito,alimentação,Borges Pimenta S.A.,-51.524252,-91.513801,tablet,rejeitada
+485,410,2023-02-06 04:33:35.498173,1574.91,débito,transporte,Duarte S/A,-75.990572,-106.462145,tablet,aprovada
+486,335,2024-02-28 19:38:56.381422,810.25,crédito,outros,Lima,88.467228,73.236145,celular,aprovada
+487,64,2022-08-19 11:09:35.795619,2533.21,crédito,educação,da Costa - EI,15.561347,22.56652,celular,rejeitada
+488,484,2024-09-22 03:47:37.788493,3292.51,débito,saúde,Fogaça,-6.312072,100.238942,celular,pendente
+489,464,2023-05-16 20:48:05.138920,3915.1,crédito,transporte,Pereira S.A.,-45.408494,160.252614,tablet,rejeitada
+490,356,2025-01-01 22:44:15.329334,1568.12,crédito,educação,Lopes Novais - ME,41.558473,-45.492877,tablet,pendente
+491,108,2024-12-18 17:06:16.408433,3441.21,débito,transporte,Rezende,3.463989,-84.430316,celular,aprovada
+492,73,2022-02-28 21:09:12.893470,1502.05,débito,transporte,Martins,89.86225,5.752803,tablet,pendente
+493,111,2024-08-23 02:00:52.746398,2960.96,crédito,transporte,Pimenta Novais S.A.,12.66513,20.90024,tablet,pendente
+494,217,2021-09-16 08:16:31.046979,376.43,crédito,saúde,Costa - ME,6.902884,102.395493,web,pendente
+495,463,2023-01-23 05:14:27.636165,820.78,crédito,alimentação,Farias,-64.737948,18.034191,web,pendente
+496,218,2025-05-16 04:20:23.575147,4701.3,débito,educação,Pereira Ltda.,-80.999845,167.472583,celular,aprovada
+497,323,2023-03-28 13:27:27.857259,3664.71,débito,moradia,Gonçalves,-78.211017,-44.151284,web,pendente
+498,337,2024-07-03 10:13:24.466972,3240.62,débito,lazer,Oliveira S/A,36.381904,146.173917,celular,rejeitada
+499,404,2024-11-22 17:30:04.054291,2170.97,débito,educação,Cavalcanti,37.090341,167.649948,celular,aprovada
+500,139,2024-12-02 06:38:23.562117,627.48,débito,moradia,Andrade Ltda.,-82.259135,149.059183,tablet,rejeitada
